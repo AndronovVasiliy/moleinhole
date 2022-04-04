@@ -1,0 +1,21 @@
+.board {
+    display: flex;
+    width: 420px;
+    height: 420px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.field {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    transition-property: background-color;
+    transition-duration: 0.5s
+}
+
+.mole {
+    width: 100px;
+    height: 100px;
+    background-image: url('https://cs6.pikabu.ru/avatars/1736/v1736235-1884020486.jpg');
+}
