@@ -4,6 +4,9 @@
 .app {
     color: green;
     font-size: 30px;
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
 }
 /*!************************************************************************************************!*\
   !*** css ./node_modules/css-loader/dist/cjs.js!./src/components/PlayingField/PlayingField.css ***!
