@@ -1,4 +1,7 @@
 .app {
     color: green;
     font-size: 30px;
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
 }

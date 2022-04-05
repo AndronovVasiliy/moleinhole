@@ -1,7 +1,6 @@
 import React from 'react'
 import { useState, useEffect } from 'react';
 import './PlayingField.css'
-import img from '../../img/mole.jpg';
 
 function PlayingField() {
 
